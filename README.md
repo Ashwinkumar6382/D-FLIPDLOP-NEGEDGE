@@ -28,17 +28,32 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **Procedure**
 
+![Screenshot 2024-12-20 081742](https://github.com/user-attachments/assets/f408ffb4-2616-4a4c-88a6-7367adb03495)
+
+
 /* write all the steps invloved */
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+![Screenshot 2024-12-20 081622](https://github.com/user-attachments/assets/4160d540-641a-4526-8aad-e38b719ec1a9)
+
+
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed byAshwin kumar E: RegisterNumber:24900900
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
 
 
+![Screenshot 2024-12-20 081644](https://github.com/user-attachments/assets/a0eb25e3-5a30-432b-8d11-b805b64421dc)
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
+![Screenshot 2024-12-20 081705](https://github.com/user-attachments/assets/5713804d-6624-4f51-99e8-0a9d7c51a131)
+
 
 
 **RESULTS**
+
+ Thus, the D Flip-Flop with negative edge triggering is designed, and its functionality is
+ validated using the truth table and timing diagrams
